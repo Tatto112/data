@@ -49,7 +49,92 @@
     {
       "category": "Animal",
       "label": "Horse",
-      "total": 12
-    }
+      "total": 19
+    },
+    {
+      "category": "Animal",
+      "label": "Lion",
+      "total": 11
+    },
+    {
+      "category": "Birds",
+      "label": "Sparrows",
+      "total": 10
+    },
+    {
+      "category": "Flowers",
+      "label": "Sun Flower",
+      "total": 15
+    },
+    {
+      "category": "Fruits",
+      "label": "Apple",
+      "total": 8
+    },
+    {
+      "category": "Fruits",
+      "label": "Banana",
+      "total": 8
+    },
+    {
+      "category": "Fruits",
+      "label": "Mango",
+      "total": 5
+    },
+    {
+      "category": "Fruits",
+      "label": "Pineapple",
+      "total": 1
+    },
+    {
+      "category": "Fruits",
+      "label": "Pomegranate",
+      "total": 1
+    },
+    {
+      "category": "Fruits",
+      "label": "Strawberry",
+      "total": 7
+    },
+    {
+      "category": "Fruits",
+      "label": "Watermelon",
+      "total": 1
+    },
+    {
+      "category": "Human",
+      "label": "Anatomy",
+      "total": 10
+    },
+    {
+      "category": "Vehicles",
+      "label": "Airplane",
+      "total": 8
+    },
+    {
+      "category": "Vehicles",
+      "label": "Bike",
+      "total": 10
+    },
+    {
+      "category": "Vehicles",
+      "label": "Car",
+      "total": 11
+    },
+    {
+      "category": "Vehicles",
+      "label": "Cycle",
+      "total": 10
+    },
+    {
+      "category": "Vehicles",
+      "label": "Ship",
+      "total": 10
+    },
+    {
+      "category": "Alphabet",
+      "label": "Alphabet",
+      "total": 26
+    },
   ]
 }
