@@ -1,0 +1,55 @@
+{
+  "dataVersion": 1,
+  "images": [
+    {
+      "category": "Anime",
+      "label": "Pikachu",
+      "total": 11
+    },
+    {
+      "category": "Animal",
+      "label": "Cat",
+      "total": 12
+    },
+    {
+      "category": "Animal",
+      "label": "Dinosaur",
+      "total": 10
+    },
+    {
+      "category": "Animal",
+      "label": "Dog",
+      "total": 12
+    },
+    {
+      "category": "Animal",
+      "label": "Dragon",
+      "total": 12
+    },
+    {
+      "category": "Animal",
+      "label": "Dragon",
+      "total": 12
+    },
+    {
+      "category": "Animal",
+      "label": "Elephant",
+      "total": 10
+    },
+    {
+      "category": "Animal",
+      "label": "Fish",
+      "total": 12
+    },
+    {
+      "category": "Animal",
+      "label": "Hippo",
+      "total": 11
+    },
+    {
+      "category": "Animal",
+      "label": "Horse",
+      "total": 12
+    }
+  ]
+}
