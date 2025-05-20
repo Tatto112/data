@@ -1,12 +1,8 @@
 {
-  "dataVersion": 4,
+  "dataVersion": 5,
   "images": [
 
-	{
-      "category": "Anime",
-      "label": "ATO",
-      "total": 17
-    },
+
 	{
       "category": "Anime",
       "label": "Black Clover",
@@ -21,11 +17,6 @@
       "category": "Anime",
       "label": "Dragon Ball",
       "total": 20
-    },
-	{
-      "category": "Anime",
-      "label": "Kung fu Panda",
-      "total": 13
     },
 	{
       "category": "Anime",
