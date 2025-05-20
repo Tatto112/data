@@ -1,12 +1,57 @@
 {
-  "dataVersion": 2,
+  "dataVersion": 3,
   "images": [
-    {
+
+	{
       "category": "Anime",
-      "label": "Pikachu",
+      "label": "ATO",
+      "total": 17
+    },
+	{
+      "category": "Anime",
+      "label": "Black Clover",
+      "total": 13
+    },
+	{
+      "category": "Anime",
+      "label": "Demon Slayer",
+      "total": 13
+    },
+	{
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "total": 20
+    },
+	{
+      "category": "Anime",
+      "label": "Kung fu Panda",
+      "total": 13
+    },
+	{
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 20
+    },	{
+      "category": "Anime",
+      "label": "One Piece",
+      "total": 17
+    },
+	{
+      "category": "Anime",
+      "label": "Pokemon",
+      "total": 23
+    },
+	
+	
+	
+	
+	
+    {
+      "category": "Animal",
+      "label": "Lion",
       "total": 11
     },
-    {
+	{
       "category": "Animal",
       "label": "Cat",
       "total": 12
@@ -19,11 +64,6 @@
     {
       "category": "Animal",
       "label": "Dog",
-      "total": 12
-    },
-    {
-      "category": "Animal",
-      "label": "Dragon",
       "total": 12
     },
     {
@@ -51,21 +91,45 @@
       "label": "Horse",
       "total": 19
     },
-    {
-      "category": "Animal",
-      "label": "Lion",
-      "total": 11
-    },
+
+	
+	
+	
+	
     {
       "category": "Birds",
       "label": "Sparrows",
       "total": 10
     },
+	
+	
+	
+	
     {
       "category": "Flowers",
       "label": "Sun Flower",
       "total": 15
     },
+	{
+      "category": "Flowers",
+      "label": "Rose",
+      "total": 10
+    },
+	{
+      "category": "Flowers",
+      "label": "Tulips",
+      "total": 9
+    },
+	{
+      "category": "Flowers",
+      "label": "Daisies",
+      "total": 9
+    },
+	
+	
+	
+	
+	
     {
       "category": "Fruits",
       "label": "Apple",
@@ -101,11 +165,11 @@
       "label": "Watermelon",
       "total": 1
     },
-    {
-      "category": "Human",
-      "label": "Anatomy",
-      "total": 10
-    },
+	
+	
+	
+	
+ 
     {
       "category": "Vehicles",
       "label": "Airplane",
@@ -132,9 +196,58 @@
       "total": 10
     },
     {
+      "category": "Vehicles",
+      "label": "Train",
+      "total": 12
+    },
+	
+	
+    {
       "category": "For Kids",
       "label": "Alphabet",
       "total": 26
+    },
+
+
+
+
+
+    {
+      "category": "Anatomy",
+      "label": "Brain",
+      "total": 7
+    },
+    {
+      "category": "Anatomy",
+      "label": "Ear",
+      "total": 6
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Eyes",
+      "total": 6
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Heart",
+      "total": 7
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Kidney",
+      "total": 5
+    },
+	    {
+      "category": "Anatomy",
+      "label": "Lips",
+      "total": 5
+    },
+	{
+      "category": "Anatomy",
+      "label": "Stomach",
+      "total": 5
     }
+	
+	
   ]
 }
