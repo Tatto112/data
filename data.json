@@ -1,5 +1,5 @@
 {
-  "dataVersion": 5,
+  "dataVersion": 7,
   "images": [
 
 
@@ -70,7 +70,7 @@
     {
       "category": "Animal",
       "label": "Fish",
-      "total": 12
+      "total": 21
     },
     {
       "category": "Animal",
@@ -81,6 +81,36 @@
       "category": "Animal",
       "label": "Horse",
       "total": 19
+    },
+	    {
+      "category": "Animal",
+      "label": "Rodents",
+      "total": 10
+    },
+	    {
+      "category": "Animal",
+      "label": "Rabbit",
+      "total": 12
+    },
+	    {
+      "category": "Animal",
+      "label": "Godzilla",
+      "total": 11
+    },
+	    {
+      "category": "Animal",
+      "label": "Fox",
+      "total": 11
+    },
+	    {
+      "category": "Animal",
+      "label": "Butterfly",
+      "total": 18
+    },
+	    {
+      "category": "Animal",
+      "label": "Bear",
+      "total": 14
     },
 
 	
