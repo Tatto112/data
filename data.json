@@ -1,5 +1,5 @@
 {
-  "dataVersion": 7,
+  "dataVersion": 8,
   "images": [
 
 
@@ -31,6 +31,21 @@
       "category": "Anime",
       "label": "Pokemon",
       "total": 23
+    },
+	{
+      "category": "Anime",
+      "label": "Attack on Titan",
+      "total": 29
+    },
+	{
+      "category": "Anime",
+      "label": "Arcane",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Akame Ga Kill",
+      "total": 10
     },
 	
 	
