@@ -1,5 +1,5 @@
 {
-  "dataVersion": 8,
+  "dataVersion": 9,
   "images": [
 
 
@@ -46,6 +46,21 @@
       "category": "Anime",
       "label": "Akame Ga Kill",
       "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Bleach",
+      "total": 27
+    },
+	{
+      "category": "Anime",
+      "label": "Beyblade",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Baka to Test",
+      "total": 3
     },
 	
 	
