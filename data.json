@@ -1,5 +1,5 @@
 {
-  "dataVersion": 9,
+  "dataVersion": 10,
   "images": [
 
 
@@ -61,6 +61,26 @@
       "category": "Anime",
       "label": "Baka to Test",
       "total": 3
+    },
+		{
+      "category": "Anime",
+      "label": "Blue Exorcist",
+      "total": 10
+    },
+		{
+      "category": "Anime",
+      "label": "Castlevania",
+      "total": 6
+    },
+		{
+      "category": "Anime",
+      "label": "Chainsaw Man",
+      "total": 24
+    },
+		{
+      "category": "Anime",
+      "label": "Failed Knight",
+      "total": 12
     },
 	
 	
