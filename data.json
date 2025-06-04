@@ -1,5 +1,5 @@
 {
-  "dataVersion": 10,
+  "dataVersion": 11,
   "images": [
 
 
@@ -11,7 +11,7 @@
 	{
       "category": "Anime",
       "label": "Demon Slayer",
-      "total": 13
+      "total": 36
     },
 	{
       "category": "Anime",
@@ -21,11 +21,11 @@
 	{
       "category": "Anime",
       "label": "Naruto",
-      "total": 20
+      "total": 57
     },	{
       "category": "Anime",
       "label": "One Piece",
-      "total": 17
+      "total": 22
     },
 	{
       "category": "Anime",
@@ -62,27 +62,66 @@
       "label": "Baka to Test",
       "total": 3
     },
-		{
+	{
       "category": "Anime",
       "label": "Blue Exorcist",
       "total": 10
     },
-		{
+	{
       "category": "Anime",
       "label": "Castlevania",
       "total": 6
     },
-		{
+	{
       "category": "Anime",
       "label": "Chainsaw Man",
       "total": 24
     },
-		{
+	{
       "category": "Anime",
       "label": "Failed Knight",
       "total": 12
     },
-	
+	{
+      "category": "Anime",
+      "label": "Rurouni Kenshin",
+      "total": 10
+    },
+	{
+      "category": "Anime",
+      "label": "Fullmetal Alchemist",
+      "total": 15
+    },
+	{
+      "category": "Anime",
+      "label": "My Hero Academia",
+      "total": 50
+    },
+	{
+      "category": "Anime",
+      "label": "Hunter x Hunter",
+      "total": 21
+    },
+		{
+      "category": "Anime",
+      "label": "SPY x FAMILY",
+      "total": 11
+    },
+		{
+      "category": "Anime",
+      "label": "Hells Paradise",
+      "total": 3
+    },
+	{
+      "category": "Anime",
+      "label": "Jujutsu Kaisen",
+      "total": 27
+    },
+	{
+      "category": "Anime",
+      "label": "Solo Leveling",
+      "total": 11
+    },
 	
 	
 	
