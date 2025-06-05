@@ -1,5 +1,5 @@
 {
-  "dataVersion": 11,
+  "dataVersion": 12,
   "images": [
 
 
@@ -122,7 +122,46 @@
       "label": "Solo Leveling",
       "total": 11
     },
-	
+	{
+      "category": "Anime",
+      "label": "Fairy Tail",
+      "total": 30
+    },
+	{
+      "category": "Anime",
+      "label": "Goblin Slayer",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Evangelion",
+      "total": 7
+    },
+	{
+      "category": "Anime",
+      "label": "Dungeon Meshi",
+      "total": 11
+    },
+	{
+      "category": "Anime",
+      "label": "Death Note",
+      "total": 8
+    },
+	{
+      "category": "Anime",
+      "label": "Chivalry",
+      "total": 12
+    },
+	{
+      "category": "Anime",
+      "label": "Dr. Stone",
+      "total": 6
+    },
+	{
+      "category": "Anime",
+      "label": "Cowboy Bebop",
+      "total": 9
+    },
 	
 	
 	
