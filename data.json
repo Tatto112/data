@@ -1,5 +1,5 @@
 {
-  "dataVersion": 12,
+  "dataVersion": 13,
   "images": [
 
 
@@ -162,6 +162,35 @@
       "label": "Cowboy Bebop",
       "total": 9
     },
+ { "category": "Anime", "label": "Zom 100", "total": 4 },
+  { "category": "Anime", "label": "Violet Evergarden", "total": 10 },
+  { "category": "Anime", "label": "Trigun", "total": 10 },
+  { "category": "Anime", "label": "Tokyo Ghoul", "total": 24 },
+  { "category": "Anime", "label": "The Seven Deadly Sins", "total": 13 },
+  { "category": "Anime", "label": "The Rising of the Shield Hero", "total": 8 },
+  { "category": "Anime", "label": "Sword Art Online", "total": 19 },
+  { "category": "Anime", "label": "Steins Gate", "total": 12 },
+  { "category": "Anime", "label": "Soul Eater", "total": 14 },
+  { "category": "Anime", "label": "Samurai Champloo", "total": 6 },
+  { "category": "Anime", "label": "Saint Seiya", "total": 8 },
+  { "category": "Anime", "label": "Sailor Moon", "total": 16 },
+  { "category": "Anime", "label": "ReZero", "total": 10 },
+  { "category": "Anime", "label": "Psycho Pass", "total": 10 },
+  { "category": "Anime", "label": "Panty & Stocking with Garterbelt", "total": 4 },
+  { "category": "Anime", "label": "Oshi no Ko", "total": 4 },
+  { "category": "Anime", "label": "One-Punch Man", "total": 19 },
+  { "category": "Anime", "label": "No Game No Life", "total": 7 },
+  { "category": "Anime", "label": "Suit Gundam", "total": 3 },
+  { "category": "Anime", "label": "Kaiju No. 8", "total": 3 },
+  { "category": "Anime", "label": "Inuyasha", "total":10 },
+  { "category": "Anime", "label": "Future Diary", "total":12 },
+  { "category": "Anime", "label": "Frieren", "total": 14 },
+  { "category": "Anime", "label": "Dandadan", "total": 14 },
+  { "category": "Anime", "label": "Cyberpunk", "total": 2 },
+  { "category": "Anime", "label": "Code Geass", "total": 19 },
+  { "category": "Anime", "label": "Chillin", "total": 2 },
+  { "category": "Anime", "label": "Bobobo", "total": 5 },
+  { "category": "Anime", "label": "Blue Box", "total": 2 },
 	
 	
 	
