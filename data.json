@@ -1,5 +1,5 @@
 {
-  "dataVersion": 13,
+  "dataVersion": 14,
   "images": [
 
 
@@ -193,7 +193,11 @@
   { "category": "Anime", "label": "Blue Box", "total": 2 },
 	
 	
-	
+	{
+      "category": "Animal",
+      "label": "Wild Animal",
+      "total": 27
+    },
     {
       "category": "Animal",
       "label": "Lion",
@@ -214,15 +218,30 @@
       "label": "Dog",
       "total": 12
     },
+	{
+      "category": "Animal",
+      "label": "Cute Animal",
+      "total": 34
+    },
     {
       "category": "Animal",
       "label": "Dragon",
       "total": 12
     },
+	{
+      "category": "Animal",
+      "label": "Real Dogs",
+      "total": 11
+    },
     {
       "category": "Animal",
       "label": "Elephant",
       "total": 10
+    },
+	   {
+      "category": "Animal",
+      "label": "Real Cat",
+      "total": 21
     },
     {
       "category": "Animal",
@@ -238,6 +257,11 @@
       "category": "Animal",
       "label": "Horse",
       "total": 19
+    },
+	    {
+      "category": "Animal",
+      "label": "Extinct Animals",
+      "total": 21
     },
 	    {
       "category": "Animal",
@@ -347,7 +371,11 @@
 	
 	
 	
- 
+    {
+      "category": "Vehicles",
+      "label": "Super Cars",
+      "total": 64
+    },
    {
       "category": "Vehicles",
       "label": "Train",
