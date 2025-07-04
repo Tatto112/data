@@ -1,7 +1,60 @@
 {
-  "dataVersion": 14,
+  "dataVersion": 15,
   "images": [
 
+    {
+      "category": "Trendy",
+      "label": "Black Clover",
+      "total": 5
+    },
+    {
+      "category": "Trendy",
+      "label": "Bleach",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Death Note",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Dragon Ball",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Hell’s Paradise",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Hunter x Hunter",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Naruto",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "One Piece",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Pokemon",
+      "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Solo Leveling",
+      "total": 5
+    },
+	
+	
+	
 
 	{
       "category": "Anime",
