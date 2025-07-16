@@ -1,5 +1,5 @@
 {
-  "dataVersion": 15,
+  "dataVersion": 16,
   "images": [
 
     {
@@ -245,6 +245,12 @@
   { "category": "Anime", "label": "Bobobo", "total": 5 },
   { "category": "Anime", "label": "Blue Box", "total": 2 },
 	
+	
+	{
+      "category": "Labubu",
+      "label": "Labubu Doll",
+      "total": 29
+    },
 	
 	{
       "category": "Animal",
