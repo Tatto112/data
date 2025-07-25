@@ -1,11 +1,16 @@
 {
-  "dataVersion": 16,
+  "dataVersion": 17,
   "images": [
 
     {
       "category": "Trendy",
       "label": "Black Clover",
       "total": 5
+    },
+	{
+      "category": "Trendy",
+      "label": "Demon Slayer",
+      "total": 30
     },
     {
       "category": "Trendy",
@@ -64,7 +69,7 @@
 	{
       "category": "Anime",
       "label": "Demon Slayer",
-      "total": 36
+      "total": 55
     },
 	{
       "category": "Anime",
