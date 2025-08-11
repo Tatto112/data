@@ -1,5 +1,5 @@
 {
-  "dataVersion": 17,
+  "dataVersion": 18,
   "images": [
 
     {
@@ -75,6 +75,11 @@
       "category": "Anime",
       "label": "Dragon Ball",
       "total": 20
+    },
+	{
+      "category": "Anime",
+      "label": "D Grey Man",
+      "total": 10
     },
 	{
       "category": "Anime",
