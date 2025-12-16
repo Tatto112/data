@@ -1,6 +1,24 @@
 {
   "dataVersion": 18,
   "images": [
+  
+  
+	{
+      "category": "Lessons",
+      "label": "Lesson1",
+      "total": 6
+    },
+	{
+      "category": "Lessons",
+      "label": "Lesson2",
+      "total": 6
+    },
+	{
+      "category": "Lessons",
+      "label": "Lesson3",
+      "total": 8
+    },
+  
 
     {
       "category": "Trendy",
