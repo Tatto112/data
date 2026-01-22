@@ -1,5 +1,5 @@
 {
-  "dataVersion": 19,
+  "dataVersion": 18,
   "images": [
   
   
@@ -128,17 +128,17 @@
 	{
       "category": "Anime",
       "label": "Black Clover",
-      "total": 15
+      "total": 13
     },
 	{
       "category": "Anime",
       "label": "Demon Slayer",
-      "total": 57
+      "total": 55
     },
 	{
       "category": "Anime",
       "label": "Dragon Ball",
-      "total": 24
+      "total": 20
     },
 	{
       "category": "Anime",
@@ -152,12 +152,12 @@
     },	{
       "category": "Anime",
       "label": "One Piece",
-      "total": 26
+      "total": 22
     },
 	{
       "category": "Anime",
       "label": "Pokemon",
-      "total": 28
+      "total": 23
     },
 	{
       "category": "Anime",
@@ -177,7 +177,7 @@
 	{
       "category": "Anime",
       "label": "Bleach",
-      "total": 29
+      "total": 27
     },
 	{
       "category": "Anime",
@@ -282,7 +282,7 @@
 	{
       "category": "Anime",
       "label": "Dr. Stone",
-      "total": 7
+      "total": 6
     },
 	{
       "category": "Anime",
