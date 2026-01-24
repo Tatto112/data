@@ -128,7 +128,7 @@
 	{
       "category": "Anime",
       "label": "Black Clover",
-      "total": 18
+      "total": 15
     },
 	{
       "category": "Anime",
@@ -586,14 +586,8 @@
       "category": "Anatomy",
       "label": "Stomach",
       "total": 5
-    },
-	
-	
-	{
-      "category": "People",
-      "label": "People",
-      "total": 10
     }
+	
 	
   ]
 }
